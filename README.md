@@ -15,6 +15,12 @@ Ce projet permet d'automatiser les tâches répétitives dans l'obtention des r�
   - Avec gestion automatique de la date système pour exploiter les mécaniques temporelles du jeu
 - L'ouverture automatique de ces boîtes
 
+## 🎬 Démonstration
+
+![Démonstration du farming automatique](images/fallout_shelter_automation.gif)
+
+*Exemple d'automatisation : génération de boîtes à butin dans Fallout Shelter*
+
 ## 📁 Structure du projet
 
 ```
