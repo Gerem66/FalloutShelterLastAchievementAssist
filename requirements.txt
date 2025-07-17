@@ -1,0 +1,10 @@
+# Dépendances pour les scripts de détection de clics de souris
+
+# Version basique avec pyautogui
+pyautogui>=0.9.54
+
+# Version avancée avec pynput (événements système natifs)
+pynput>=1.7.6
+
+# Utilitaires optionnels
+colorama>=0.4.6  # Pour les couleurs dans le terminal
